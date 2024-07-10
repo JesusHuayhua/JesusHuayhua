@@ -2,10 +2,10 @@
 # My GitHub Stats
 
 
-<table align="center" width="100%" height="100%" >
-  <tr>
-      <td><img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=JesusHuayhua&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true"/></td>
-      <td><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHuayhua&langs_count=10&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></td>
+<table style="border: none;" width="100%" height="100%" >
+  <tr style="border:none;">
+      <td style="border:none;"><img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=JesusHuayhua&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true"/></td>
+      <td style="border:none;"><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHuayhua&langs_count=10&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></td>
   </tr>
 </table>
 <!-- <div style="text-algin:center;">
