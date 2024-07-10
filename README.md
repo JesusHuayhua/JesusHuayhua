@@ -15,7 +15,7 @@
 </p>
 </div> -->
 
-## Programming languages I learned in university.
+## Programming languages I learned in college
 
 <div style="text-align: center;">
 <p>
@@ -28,7 +28,7 @@
 </p>
 </div>
 
-## IDE's I used in university
+## IDE's I used in college
 
 <div style="text-align: center;">
 <p>
