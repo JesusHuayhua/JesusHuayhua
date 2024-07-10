@@ -4,7 +4,7 @@ I'm Jesús Huayhua a computer engineering student at PUCP university Lima - Peru
 
 This is my github for university courses.
 
-<p align="left"> This is my personal github, where I do my projects and show what I'm learning.: <a href="https://www.github.com/errantProgrammer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> This is my personal github, where I do my projects and show what I'm learning: <a href="https://www.github.com/errantProgrammer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ## My GitHub Stats
 
@@ -45,7 +45,7 @@ This is my github for university courses.
 
 <div style="text-align: center;">
   <p>
-    <a href="https://www.linkedin.com/in/jesus-mauricio-huayhua-flores-a40652285/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jesus-mauricio-huayhua-flores-a40652285/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:errantprogrammer@gmail.com" target="_blank">
     <img src ="https://img.shields.io/badge/Personal%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
