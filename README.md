@@ -13,7 +13,7 @@ This is my github for university courses.
 <table width="100%" height="100%" >
   <tr>
       <td><img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=JesusHuayhua&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true"/></td>
-      <td><img width="400" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=errantProgrammer&layout=compact&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="Most Languages I use"></td>
+      <td><img width="400" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHuayhua&layout=compact&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="Most Languages I use"></td>
   </tr>
 </table>
 
