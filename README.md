@@ -8,14 +8,16 @@ This is my github for university courses.
 
 <p align="left"> This is my personal github, where I do my projects and show what I'm learning: <a href="https://www.github.com/errantProgrammer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-## My GitHub Stats
+<!--
 
+## My GitHub Stats
 <table width="100%" height="100%" >
   <tr>
       <td><img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=JesusHuayhua&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true"/></td>
       <td><img width="400" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHuayhua&layout=compact&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="Most Languages I use"></td>
   </tr>
 </table>
+-->
 
 ## Programming languages I learned in college
 
